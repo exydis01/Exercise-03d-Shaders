@@ -27,5 +27,15 @@ Built using Godot 3.4.2
 
 None
 
+## Features
+* background particle effects
+* a background
+* matching particle effects
+* particle effects when a block is clicked
+* point counting
+* mouths on blocks
+* eyes on blocks
+* blocks fall away when matched
+
 ## Created by 
 Ethan Xydis
